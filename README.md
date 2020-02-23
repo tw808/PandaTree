@@ -16,6 +16,8 @@
 |P |T |P |
 |P |T |P |
 ---
-[bingus](www.bing.com)
-[baidudoo](www.baidu.com)
-![heart](https://dzapk.com/images/2017/12/21/3776/jojo-s-bizarre-adventure-diamond-records-v1-7-0-mod-apk_1.jpg)
+[bingus](https://www.bing.com/)
+---
+[baidudoo](https://www.baidu.com/)
+---
+![heart](https://c-ssl.duitang.com/uploads/item/202002/23/20200223182401_hnmRv.jpeg)
