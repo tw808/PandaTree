@@ -8,6 +8,5 @@
 ### pandatreegrid
 |Panda|Tree|Panda|
 |-----|----|-----|
-|U+1F43C|U+1F43C|U+1F43C|
-|U+1F43C|U+1F43C|U+1F43C|
+|(U+1F43C)|U+1F43C|U+1F43C|
 
