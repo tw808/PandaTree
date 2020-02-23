@@ -22,4 +22,6 @@
 ---
 ![heart](https://c-ssl.duitang.com/uploads/item/202002/23/20200223182401_hnmRv.jpeg)
 ---
-![JoJo](https://vignette2.wikia.nocookie.net/p__/images/8/83/Giorno_jojoEoH.png/revision/latest?cb=20160220015119&path-prefix=protagonist/w/600)
+![JoJo](https://vignette2.wikia.nocookie.net/p__/images/8/83/Giorno_jojoEoH.png/revision/latest?cb=20160220015119&path-prefix=protagonist/)
+---
+
